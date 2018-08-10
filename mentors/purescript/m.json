@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "github_username": "spicydonuts",
+    "name": "Michael Trotter",
+    "link_text": null,
+    "link_url": null,
+    "avatar_url": null,
+    "bio": "Developer at Lumi, primarily using PureScript and React"
+  }
+]
